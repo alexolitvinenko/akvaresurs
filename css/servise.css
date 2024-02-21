@@ -1,0 +1,56 @@
+.section {
+	width: 75%;
+	margin: 20px auto;
+}
+.section_text img {
+	float: left;
+	width: 400px;
+	height: 400px;
+	margin: 0 30px 18px 0;
+}
+.section_text {
+	height: auto;
+	min-height: 400px;
+	font-size: 23px;
+	line-height: 1.4em;
+}
+.sub_order_section {
+	background-color: #007abe;
+	padding: 20px 0 20px 0;
+}
+.sub_order_text {
+	text-align: center;
+	font-size: 40px;
+	margin-bottom: 20px;
+	color: white;
+}
+.sub_order_btn {
+	background-color: #d93431;
+	height: 54px;
+	line-height: 54px;
+	width: 262px;
+	border-radius: 27px;
+	font-size: 28px;
+	font-weight: 500;
+	margin: 0 auto;
+	cursor: pointer;
+	text-align: center;
+    color: #fff;
+}
+.text_col-1 ul li {
+	list-style: none;
+}
+.text_col-1 ul > li:before{
+    content: '✔';
+    position: relative; 
+    color: #007abe;
+    float: left;
+    margin-right: 5px;
+}
+.why_servise_section {
+	display: block;
+    position: relative;
+	width: 75%;
+	margin: 20px auto;
+    padding-bottom: 58px;
+}

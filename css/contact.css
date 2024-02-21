@@ -1,0 +1,44 @@
+.contact-section {
+	position: relative;
+	margin: 30px auto;
+	width: 100%;
+	max-width: 1170px;
+	font-size: 30px;
+}
+.contact_text {
+	margin-left: 10px;
+}
+.contact_text span {
+	display: block;
+}
+.contact_phone_link_small {
+	display: none;
+}
+.contact_phone_link {
+	display: block;
+}
+.contact_phone_link_small a {
+	color: #000;
+	font-family: Times New Roman, sans-serif;
+}
+.sub_title {
+	height: 64px;
+	line-height: 50px;
+	border-bottom: 2px solid black;
+	padding-bottom: 10px;
+}
+.sub_title img {
+	width: 64px;
+	height: 64px;
+	float: left;
+	margin: auto 15px auto 0;
+}
+.sub_title span {
+	font-size: 40px;
+	vertical-align: middle;
+	font-weight: bolder;
+}
+.accred_images {
+	width: 512px;
+	margin: 20px auto;
+}

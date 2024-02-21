@@ -1,0 +1,64 @@
+@media only screen and (max-width: 1000px) {
+	.phone_link_small {
+ 		display: table;
+ 	}
+ 	.contact_phone_link_small
+ 	{
+ 		display: block !important;
+ 	}
+ 	.contact_phone_link
+ 	{
+ 		display: none !important;
+ 	}
+ 	.phone_link {
+ 		display: none;
+ 	}
+}
+@media only screen and (max-width: 1000px) {
+	.nav_col-1 {
+		flex: 2;
+		width: 100%;
+	}
+	.nav_col-3 {
+		display: block;
+		flex: 1;
+	}
+	.nav_col-2 {
+		display: none;
+	}
+	.nav_sub {
+		display: none;
+	}
+}
+
+@media (max-width: 1300px) {
+	.modal-content {
+		width: 40%;
+	}
+}
+@media (max-width: 1300px) {
+	.modal-content {
+		width: 50%;
+	}
+}
+@media (max-width: 830px) {
+	.modal-content {
+		width: 60%;
+	}
+}
+@media (max-width: 680px) {
+	.modal-content {
+		width: 70%;
+	}
+}
+@media (max-width: 570px) {
+	.modal-content {
+		width: 80%;
+	}
+}
+@media (max-width: 520px) {
+	.modal-content {
+		width: 90%;
+	}
+}
+
